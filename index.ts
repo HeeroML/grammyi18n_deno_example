@@ -4,7 +4,6 @@ import * as path from "https://deno.land/std@0.93.0/path/mod.ts";
 import {I18n, I18nContext, pluralize} from "https://deno.land/x/grammy_i18n@v0.2.1/source/mod.ts"
 export interface Session {
     message_id: number;
-    session: any;
 }
 
 export interface MyContext extends GrammyContext {
