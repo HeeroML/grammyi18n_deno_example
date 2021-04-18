@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - @grammyjs/types@2.0.2
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/@grammyjs/types
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/@grammyjs/types@v2.0.2-lw1PmIo0XWCNQJhelRzc/mode=imports/optimized/@grammyjs/types.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/@grammyjs/types@v2.0.2-lw1PmIo0XWCNQJhelRzc/mode=imports,min/optimized/@grammyjs/types.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/-/@grammyjs/types@v2.0.2-lw1PmIo0XWCNQJhelRzc/dist=es2020,mode=imports/optimized/@grammyjs/types.js';
+export {default} from '/-/@grammyjs/types@v2.0.2-lw1PmIo0XWCNQJhelRzc/dist=es2020,mode=imports/optimized/@grammyjs/types.js';

@@ -1,0 +1,13 @@
+{
+  "headers": {
+    "access-control-allow-headers": "Content-Type",
+    "x-trace": "g3aP1D9jvPY",
+    "access-control-allow-origin": "*",
+    "etag": "XEHs860CldW2m8JEd_5lnIbbWQq0fdcI4OkckrVmpyQ",
+    "content-type": "video/mp2t",
+    "date": "Sun, 18 Apr 2021 19:56:51 GMT",
+    "content-length": "28017",
+    "access-control-allow-methods": "GET"
+  },
+  "url": "https://lra6z45nakk5lnu3yjchp7tftsdnwwikwr65ocha5eojfnlgu4sa.arweave.net/XEHs860CldW2m8JEd_5lnIbbWQq0fdcI4OkckrVmpyQ/path/win32.ts"
+}

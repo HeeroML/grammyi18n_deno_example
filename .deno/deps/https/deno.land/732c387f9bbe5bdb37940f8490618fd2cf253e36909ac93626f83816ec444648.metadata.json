@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "cf-ray": "6420b37c89ba03c4-ORD",
+    "x-deno-warning": "Implicitly using latest version (v1.0.0) for https://deno.land/x/getfiles/mod.ts",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-length": "0",
+    "set-cookie": "__cfduid=d190d4e0f0519ba8ce3b47d3a15a367481618778352; expires=Tue, 18-May-21 20:39:12 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "location": "/x/getfiles@v1.0.0/mod.ts",
+    "cf-request-id": "09884e81d7000003c46133e000000001",
+    "vary": "Accept-Encoding",
+    "server": "cloudflare",
+    "date": "Sun, 18 Apr 2021 20:39:12 GMT"
+  },
+  "url": "https://deno.land/x/getfiles/mod.ts"
+}

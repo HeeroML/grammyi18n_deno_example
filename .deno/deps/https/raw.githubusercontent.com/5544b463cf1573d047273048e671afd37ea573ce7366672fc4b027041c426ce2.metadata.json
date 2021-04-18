@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sun, 18 Apr 2021 19:55:36 GMT",
+    "date": "Sun, 18 Apr 2021 19:50:36 GMT",
+    "etag": "W/\"10be767f251925c7d27f99e33b21283bb8372b2c681fd2739744de157eb3a7ce\"",
+    "x-github-request-id": "46B2:3F0D:3E8170:549468:607C8D8C",
+    "x-served-by": "cache-pwk4963-PWK",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "1b0aad8605118440f422c85e3351543c84bc1cac",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1618775436.240092,VS0,VE95",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/piyush-bhatt/is-object/main/mod.ts"
+}

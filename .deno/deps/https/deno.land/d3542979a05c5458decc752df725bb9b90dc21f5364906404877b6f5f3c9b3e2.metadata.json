@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "x-deno-warning": "Implicitly using latest version (v0.4.0) for https://deno.land/x/grammy/mod.ts",
+    "cf-request-id": "09882200eb00005d4921106000000001",
+    "vary": "Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "content-length": "0",
+    "cf-ray": "64206c47dd945d49-ORD",
+    "set-cookie": "__cfduid=dd644754a3da1b26b63edb158c01b1a1a1618775435; expires=Tue, 18-May-21 19:50:35 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "date": "Sun, 18 Apr 2021 19:50:35 GMT",
+    "location": "/x/grammy@v0.4.0/mod.ts"
+  },
+  "url": "https://deno.land/x/grammy/mod.ts"
+}

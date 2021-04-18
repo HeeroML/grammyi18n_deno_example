@@ -1,0 +1,8 @@
+import { Schema } from "../schema.ts";
+import { func, regexp, undefinedType } from "../type/mod.ts";
+import { def } from "./default.ts";
+export const extended = new Schema({
+    explicit: [func, regexp, undefinedType],
+    include: [def],
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXh0ZW5kZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJleHRlbmRlZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFQSxPQUFPLEVBQUUsTUFBTSxFQUFFLE1BQU0sY0FBYyxDQUFDO0FBQ3RDLE9BQU8sRUFBRSxJQUFJLEVBQUUsTUFBTSxFQUFFLGFBQWEsRUFBRSxNQUFNLGdCQUFnQixDQUFDO0FBQzdELE9BQU8sRUFBRSxHQUFHLEVBQUUsTUFBTSxjQUFjLENBQUM7QUFJbkMsTUFBTSxDQUFDLE1BQU0sUUFBUSxHQUFHLElBQUksTUFBTSxDQUFDO0lBQ2pDLFFBQVEsRUFBRSxDQUFDLElBQUksRUFBRSxNQUFNLEVBQUUsYUFBYSxDQUFDO0lBQ3ZDLE9BQU8sRUFBRSxDQUFDLEdBQUcsQ0FBQztDQUNmLENBQUMsQ0FBQyJ9

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "access-control-allow-methods": "GET,POST",
+    "content-length": "97",
+    "access-control-allow-headers": "*",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "location": "https://arweave.net/XEHs860CldW2m8JEd_5lnIbbWQq0fdcI4OkckrVmpyQ/path/mod.ts",
+    "content-type": "text/plain; charset=utf-8",
+    "server": "nginx/1.14.0 (Ubuntu)",
+    "date": "Sun, 18 Apr 2021 19:56:49 GMT",
+    "vary": "Accept"
+  },
+  "url": "https://x.nest.land/std@0.73.0/path/mod.ts"
+}

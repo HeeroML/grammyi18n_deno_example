@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sun, 18 Apr 2021 19:50:36 GMT",
+    "vary": "X-PJAX, Accept-Encoding, Accept, X-Requested-With",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "server": "GitHub.com",
+    "content-type": "text/html; charset=utf-8",
+    "access-control-allow-origin": "https://render.githubusercontent.com",
+    "x-github-request-id": "81A4:6C23:1CD2C0C:2B85CEC:607C8D8C",
+    "content-security-policy": "default-src 'none'; base-uri 'self'; block-all-mixed-content; connect-src 'self' uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events wss://alive.github.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations; font-src github.githubassets.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/socket-worker-3f088aa2.js gist.github.com/socket-worker-3f088aa2.js",
+    "content-length": "134",
+    "cache-control": "no-cache",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "0",
+    "expect-ct": "max-age=2592000, report-uri=\"https://api.github.com/_private/browser/errors\"",
+    "location": "https://raw.githubusercontent.com/piyush-bhatt/is-object/main/mod.ts"
+  },
+  "url": "https://github.com/piyush-bhatt/is-object/raw/main/mod.ts"
+}
